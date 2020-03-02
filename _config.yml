@@ -1,11 +1,11 @@
 # Site settings
-author: Madeleine Reiser
-title: 
+author: Maddy
+title: just a little blog
 header-img: img/home-bg.png
 email: reiser.mb@gmail.com
-copyright_name: Madeleine Reiser
+copyright_name: Maddy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  my journey in becoming a data scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  turtleduck18
